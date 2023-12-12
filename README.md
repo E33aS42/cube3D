@@ -2,7 +2,7 @@
 
 # Description
 
-This project is exploring the raycasting technique that allows to create a 3D perspective in a 2D map. Back when computers were slower, it wasn't possible to run real 3D engines in realtime, and raycasting was the first solution. Raycasting can go very fast, because only a calculation has to be done for every vertical line of the screen. The most well known game that used this technique was Wolfenstein 3D.
+This project is exploring the raycasting technique that allows to create a 3D perspective from a 2D map. Back when computers were slower, it wasn't possible to run real 3D engines in realtime, and raycasting was the first solution. Raycasting can go very fast, because only a calculation has to be done for every vertical line of the screen. The most well known game that used this technique was Wolfenstein 3D.
 
 In this project was implemented:
 - the raycasting technique rendering in 3D a 2D map
