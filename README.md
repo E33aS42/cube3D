@@ -6,7 +6,9 @@ This project is exploring the raycasting technique that allows to create a 3D pe
 
 In this project was implemented:
 - the raycasting technique rendering in 3D a 2D map
-- possible
+- moving around the map
+- sprites
+- wall collisions
 
 The project is run as follows:
 - run `make` in the main folder to build the executable
